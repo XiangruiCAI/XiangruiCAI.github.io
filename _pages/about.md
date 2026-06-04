@@ -31,11 +31,11 @@ I am **Xiangrui CAI**, an Associate Professor in the College of Computer Science
 
 ## Research Interests
 
-**Data construction:** I study methods for building high-quality data, including the synthesis, representation, filtering, and evaluation of heterogeneous data, with the goal of improving the capability and generalization of LLMs and agentic systems.
+**Data Preparation:** I study methods for building high-quality data, including the synthesis, representation, filtering, and evaluation of heterogeneous data, with the goal of improving the capability and generalization of LLMs and agentic systems.
 
-**Trustworthy systems:** I study system robustness and security mechanisms, focusing on model security, adversarial attacks and defenses, user behavior modeling, and anomaly detection to improve reliability in real environments.
+**Trustworthy AI:** I study system robustness and security mechanisms, focusing on model security, adversarial attacks and defenses, user behavior modeling, and anomaly detection to improve reliability in real environments.
 
-**Scenario-driven applications:** I build secure and reliable intelligent system solutions for complex domains such as smart healthcare, cybersecurity, and social media.
+**Applications:** I build secure and reliable intelligent system solutions for complex domains such as healthcare, cybersecurity, and social media.
 
 ## Education and Employment
 
