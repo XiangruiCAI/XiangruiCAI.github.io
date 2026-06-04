@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: 论文与学术成果，按年份倒序排列。
+description: Publications and academic outputs in reverse chronological order.
 nav: true
 nav_order: 2
 ---

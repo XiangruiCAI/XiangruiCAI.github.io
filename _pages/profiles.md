@@ -14,13 +14,13 @@ profiles:
     content: about.md
     image_circular: true
     more_info: >
-      <p>请替换为你的单位</p>
-      <p>请替换为你的城市</p>
+      <p>College of Computer Science, Nankai University</p>
+      <p>Tianjin, China</p>
   - align: left
     image: prof_pic.jpg
     content: about.md
     image_circular: true
     more_info: >
-      <p>请替换为你的单位</p>
-      <p>请替换为你的城市</p>
+      <p>College of Computer Science, Nankai University</p>
+      <p>Tianjin, China</p>
 ---

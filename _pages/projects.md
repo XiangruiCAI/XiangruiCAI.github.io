@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: 研究项目、开源工作与实验原型。
+description: Research projects, open-source work, and experimental prototypes.
 nav: true
 nav_order: 3
 display_categories: [research, software, writing]

@@ -2,13 +2,13 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: 课程、助教、讲义和教学材料。
+description: Courses, teaching assistance, lecture notes, and teaching materials.
 nav: true
 nav_order: 6
 calendar: true
 ---
 
-这里可以整理你主讲或助教的课程、讲义、作业说明和课程日历。
+This page can be used to organize courses, lecture notes, assignment instructions, and teaching calendars.
 
 {% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
 

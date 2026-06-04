@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-欢迎对相关研究方向感兴趣的同学或合作者通过邮件联系。
+Students and collaborators interested in related research directions are welcome to contact me by email.

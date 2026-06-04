@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: 南开大学计算机学院副教授
+subtitle: Associate Professor, College of Computer Science, Nankai University
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>南开大学计算机学院</p>
-    <p>数据中心智能系统</p>
-    <p>天津，中国</p>
+    <p>College of Computer Science, Nankai University</p>
+    <p><a href="https://scholar.google.com/citations?user=Y9vuweEAAAAJ&hl=en">Google Scholar</a></p>
+    <p><a href="mailto:caixr@nankai.edu.cn">caixr@nankai.edu.cn</a></p>
 
 selected_papers: true
 social: true
@@ -27,20 +27,20 @@ latest_posts:
   limit: 3
 ---
 
-我是 **蔡祥睿（Xiangrui CAI）**，现任南开大学计算机学院副教授。我的研究聚焦于以数据为中心的智能系统（Data-Centric Intelligent Systems），关注数据如何驱动智能系统的能力与行为，并保障其在真实场景中的可靠性与安全性。
+I am **Xiangrui CAI**, an Associate Professor in the College of Computer Science at Nankai University. My research focuses on Data-Centric Intelligent Systems, studying how data drives the capabilities and behaviors of intelligent systems while improving their reliability and security in real-world scenarios.
 
-## 研究兴趣
+## Research Interests
 
-**数据构建：** 研究高质量数据的构建方法，包括异构数据的合成、表示、筛选与评估，提升 LLM 与 Agentic Systems 的能力与泛化性。
+**Data construction:** I study methods for building high-quality data, including the synthesis, representation, filtering, and evaluation of heterogeneous data, with the goal of improving the capability and generalization of LLMs and agentic systems.
 
-**可信系统：** 研究系统鲁棒性与安全机制，聚焦模型安全攻防、用户行为建模与异常检测，提升系统在真实环境中的可靠性。
+**Trustworthy systems:** I study system robustness and security mechanisms, focusing on model security, adversarial attacks and defenses, user behavior modeling, and anomaly detection to improve reliability in real environments.
 
-**场景应用：** 面向智慧医疗、网络安全与社交媒体等复杂场景，构建安全可靠的智能系统解决方案。
+**Scenario-driven applications:** I build secure and reliable intelligent system solutions for complex domains such as smart healthcare, cybersecurity, and social media.
 
-## 教育和工作经历
+## Education and Employment
 
-- 2023 至今，南开大学，计算机学院，副教授。
-- 2019-2022，南开大学，网络空间安全学院，讲师。
-- 2015-2017，新加坡国立大学，计算机科学，联合培养博士生，导师：Prof. Beng Chin Ooi（黄铭钧教授）。
-- 2013-2018，南开大学，计算机科学与技术，工学博士。
-- 2009-2013，南开大学，信息安全，工学学士。
+- 2023-present, Associate Professor, College of Computer Science, Nankai University.
+- 2019-2022, Lecturer, College of Cyber Science, Nankai University.
+- 2015-2017, Visiting PhD Student in Computer Science, National University of Singapore, advised by Prof. Beng Chin Ooi.
+- 2013-2018, PhD in Computer Science and Technology, Nankai University.
+- 2009-2013, Bachelor of Engineering in Information Security, Nankai University.
