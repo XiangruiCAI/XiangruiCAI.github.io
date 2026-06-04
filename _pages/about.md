@@ -42,5 +42,5 @@ I am **Xiangrui CAI**, an Associate Professor in the College of Computer Science
 - 2023-present, Associate Professor, College of Computer Science, Nankai University.
 - 2019-2022, Lecturer, College of Cyber Science, Nankai University.
 - 2015-2017, Visiting PhD Student in Computer Science, National University of Singapore, advised by Prof. Beng Chin Ooi.
-- 2013-2018, PhD in Computer Science and Technology, Nankai University.
+- 2013-2018, PhD in Computer Science and Technology, Nankai University, advised by Prof. Xiaojie Yuan.
 - 2009-2013, Bachelor of Engineering in Information Security, Nankai University.
