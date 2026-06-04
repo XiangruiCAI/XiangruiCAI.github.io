@@ -27,6 +27,23 @@ latest_posts:
   limit: 3
 ---
 
+<style>
+  .profile {
+    max-width: 180px;
+  }
+
+  .profile img {
+    max-width: 180px;
+  }
+
+  @media (max-width: 576px) {
+    .profile,
+    .profile img {
+      max-width: 150px;
+    }
+  }
+</style>
+
 I am **Xiangrui CAI**, an Associate Professor in the College of Computer Science at Nankai University. My research focuses on Data-Centric Intelligent Systems, studying how data drives the capabilities and behaviors of intelligent systems while improving their reliability and security in real-world scenarios.
 
 ## Research Interests
