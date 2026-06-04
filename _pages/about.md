@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: 研究方向 / 所属机构 / 联系方式
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>请替换为你的单位</p>
+    <p>请替换为你的办公室/实验室</p>
+    <p>请替换为你的城市</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,13 +22,19 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+你好，我是 **Xiangrui CAI**。这是我的学术主页，用于集中展示我的研究兴趣、论文发表、项目经历、教学活动和近期动态。
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+我的研究兴趣包括：
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+- 研究方向一：请替换为你的主要研究领域。
+- 研究方向二：请替换为你的交叉方向、方法或应用场景。
+- 研究方向三：请替换为你希望长期积累的研究问题。
+
+我目前关注如何将严谨的问题建模、可复现的实验流程和清晰的学术表达结合起来，形成能够被同行理解、复用和继续推进的研究工作。
+
+如果你对相关方向感兴趣，欢迎通过页面下方的邮箱或学术链接联系我。
