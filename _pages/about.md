@@ -2,39 +2,55 @@
 layout: about
 title: about
 permalink: /
-subtitle: 研究方向 / 所属机构 / 联系方式
+subtitle: 南开大学计算机学院副教授
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: true
   more_info: >
-    <p>请替换为你的单位</p>
-    <p>请替换为你的办公室/实验室</p>
-    <p>请替换为你的城市</p>
+    <p>南开大学计算机学院</p>
+    <p>数据中心智能系统</p>
+    <p>天津，中国</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 3
 ---
 
-你好，我是 **Xiangrui CAI**。这是我的学术主页，用于集中展示我的研究兴趣、论文发表、项目经历、教学活动和近期动态。
+我是 **蔡祥睿（Xiangrui CAI）**，现任南开大学计算机学院副教授。我的研究聚焦于以数据为中心的智能系统（Data-Centric Intelligent Systems），关注数据如何驱动智能系统的能力与行为，并保障其在真实场景中的可靠性与安全性。
 
-我的研究兴趣包括：
+## 研究兴趣
 
-- 研究方向一：请替换为你的主要研究领域。
-- 研究方向二：请替换为你的交叉方向、方法或应用场景。
-- 研究方向三：请替换为你希望长期积累的研究问题。
+**数据构建：** 研究高质量数据的构建方法，包括异构数据的合成、表示、筛选与评估，提升 LLM 与 Agentic Systems 的能力与泛化性。
 
-我目前关注如何将严谨的问题建模、可复现的实验流程和清晰的学术表达结合起来，形成能够被同行理解、复用和继续推进的研究工作。
+**可信系统：** 研究系统鲁棒性与安全机制，聚焦模型安全攻防、用户行为建模与异常检测，提升系统在真实环境中的可靠性。
 
-如果你对相关方向感兴趣，欢迎通过页面下方的邮箱或学术链接联系我。
+**场景应用：** 面向智慧医疗、网络安全与社交媒体等复杂场景，构建安全可靠的智能系统解决方案。
+
+## 教育和工作经历
+
+- 2023 至今，南开大学，计算机学院，副教授。
+- 2019-2022，南开大学，网络空间安全学院，讲师。
+- 2015-2017，新加坡国立大学，计算机科学，联合培养博士生，导师：Prof. Beng Chin Ooi（黄铭钧教授）。
+- 2013-2018，南开大学，计算机科学与技术，工学博士。
+- 2009-2013，南开大学，信息安全，工学学士。
+
+## 在研项目
+
+- 国家自然科学基金委员会，面上项目，跨域用户行为细粒度异常检测与可解释溯源，2026-2029，在研，主持。
+- 中华人民共和国科学技术部，“网络空间安全治理”重点专项，重要数据分类、识别与安全评估技术，2022-2025，在研，参与。
+- 国家自然科学基金委员会，专项项目，数字技术支持下慢性病共病健康医疗服务动态监测和干预策略研究，2024-2027，在研，参与。
+- 国家自然科学基金委员会，青年科学基金项目，电子医疗记录分析模型构建及其可解释性研究，2021-2023，结题，主持。
+- 天津市自然科学基金委员会，青年科学基金项目，电子医疗记录可解释分析关键技术研究，2020-2022，结题，主持。
+- 国家自然科学基金委员会，联合基金重点项目，融合地理空间数据的人物行为与事件演化，2020-2023，结题，参与。
+- 中华人民共和国科学技术部，科技创新2030-“新一代人工智能”重大项目，跨模态医疗分析推理技术与系统，2019-2023，结题，参与。

@@ -1,82 +1,50 @@
 cv:
   name: Xiangrui CAI
-  label: Researcher
-  email: your.email@example.com
-  location: 请替换为你的城市/国家
+  label: Associate Professor
+  email: caixr@nankai.edu.cn
+  location: Tianjin, China
   image: ""
   summary: >
-    请在这里填写 2-3 句话的学术简介，例如你的研究方向、当前单位、学位阶段或职位，以及你希望展示的核心关键词。
+    Associate Professor at the College of Computer Science, Nankai University.
+    Research interests include data-centric intelligent systems, trustworthy AI systems, and applications in healthcare, cybersecurity, and social media.
 
   social_networks:
     - network: GitHub
       username: XiangruiCAI
     - network: Google Scholar
-      username: 请替换为你的 Scholar ID 或主页
-    - network: LinkedIn
-      username: 请替换为你的 LinkedIn 用户名
-
-  address:
-    street: 请替换为实验室/办公室地址
-    city: 请替换为城市
-    region: 请替换为省份/地区
-    postalCode: 请替换为邮编
-    countryCode: CN
+      username: Y9vuweEAAAAJ
 
   sections:
-    Education:
-      - institution: 请替换为你的学校
-        location: 请替换为地点
-        area: 请替换为专业或研究方向
-        studyType: 请替换为学位
-        start_date: 2022
-        end_date: present
-        highlights:
-          - 请替换为导师、论文题目或主要课程。
-
     Experience:
-      - company: 请替换为实验室/课题组/公司
-        position: 请替换为职位
-        location: 请替换为地点
-        start_date: 2024
+      - company: Nankai University, College of Computer Science
+        position: Associate Professor
+        location: Tianjin, China
+        start_date: 2023
         end_date: present
-        summary: 请简要描述你的研究或工作职责。
+      - company: Nankai University, College of Cyber Science
+        position: Lecturer
+        location: Tianjin, China
+        start_date: 2019
+        end_date: 2022
+
+    Education:
+      - institution: Nankai University
+        location: Tianjin, China
+        area: Computer Science and Technology
+        studyType: PhD
+        start_date: 2013
+        end_date: 2018
+      - institution: National University of Singapore
+        location: Singapore
+        area: Computer Science
+        studyType: Visiting PhD Student
+        start_date: 2015
+        end_date: 2017
         highlights:
-          - 请替换为代表性工作一。
-          - 请替换为代表性工作二。
-
-    Publications:
-      - title: 请替换为你的论文题目
-        authors:
-          - Xiangrui CAI
-          - Collaborator
-        publisher: 请替换为期刊、会议或预印本平台
-        releaseDate: 2026
-        url: ""
-        summary: 请填写一两句话总结论文贡献。
-
-    Projects:
-      - name: 研究项目名称
-        summary: 请描述项目目标、方法和结果。
-        highlights:
-          - 请替换为项目亮点一。
-          - 请替换为项目亮点二。
-        start_date: 2025
-        end_date: present
-
-    Skills:
-      - name: Research
-        level: ""
-        icon: fa-solid fa-microscope
-        keywords: "请替换为方法、模型、实验、工具或领域关键词"
-
-    Languages:
-      - name: Chinese
-        summary: Native
-      - name: English
-        summary: Professional working proficiency
-
-    Awards:
-      - title: 请替换为奖项或荣誉
-        date: 2026
-        awarder: 请替换为授予单位
-        summary: 请简要说明奖项背景。
+          - Advisor: Prof. Beng Chin Ooi.
+      - institution: Nankai University
+        location: Tianjin, China
+        area: Information Security
+        studyType: Bachelor of Engineering
+        start_date: 2009
+        end_date: 2013
