@@ -14,7 +14,7 @@ profile:
     <p><a href="mailto:caixr@nankai.edu.cn">caixr@nankai.edu.cn</a></p>
 
 selected_papers: true
-social: true
+social: false
 
 announcements:
   enabled: true
