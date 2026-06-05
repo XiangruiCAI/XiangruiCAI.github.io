@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-One paper on LLM-based recommendation has been accepted to SIGIR 2026. Congratulations to Yuchen!
+One paper on LLM-based recommendation has been accepted to SIGIR 2026.
+Congratulations to Yuchen!

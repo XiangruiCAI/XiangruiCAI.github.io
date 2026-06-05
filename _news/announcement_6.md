@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-One paper on anomaly detection has been accepted to CVPR 2026. Congratulations to Yaxin!
+One paper on anomaly detection has been accepted to CVPR 2026. Congratulations
+to Yaxin!

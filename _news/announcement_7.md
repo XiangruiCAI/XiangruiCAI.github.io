@@ -5,4 +5,5 @@ inline: true
 related_posts: false
 ---
 
-Two papers on AI security have been accepted to AAAI 2026. Congratulations to Zhixin!
+Two papers on AI security have been accepted to AAAI 2026. Congratulations to
+Zhixin!
