@@ -54,6 +54,10 @@ I am **Xiangrui CAI**, an Associate Professor in the College of Computer Science
 
 **Applications:** I build secure and reliable intelligent system solutions for complex domains such as healthcare, cybersecurity, and social media.
 
+## Prospective Students
+
+I am looking for motivated Master’s and Ph.D. students, as well as undergraduate research interns. Students interested in time series analysis, graph learning, and trustworthy AI are welcome to contact me with their CV and a brief introduction.
+
 ## Education and Employment
 
 - 2023-present, Associate Professor, College of Computer Science, Nankai University.
