@@ -8,8 +8,5 @@ nav_order: 6
 calendar: true
 ---
 
-This page can be used to organize courses, lecture notes, assignment instructions, and teaching calendars.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
-
-{% include courses.liquid %}
+* Database Systems, Spring 2026
+* Probability and Statistics, 2019-2025
