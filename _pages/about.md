@@ -36,6 +36,18 @@ latest_posts:
     max-width: 180px;
   }
 
+  article > h2 a[href$="/news/"],
+  article > h2 a[href$="/publications/"] {
+    text-transform: capitalize;
+  }
+
+  .visitor-map {
+    width: 100%;
+    max-width: 640px;
+    margin: 1rem auto 0;
+    text-align: center;
+  }
+
   @media (max-width: 576px) {
     .profile,
     .profile img {
@@ -56,7 +68,7 @@ I am **Xiangrui CAI**, an Associate Professor in the College of Computer Science
 
 ## Prospective Students
 
-I am looking for motivated Master’s and Ph.D. students, as well as undergraduate research interns. Students interested in time series analysis, graph learning, and trustworthy AI are welcome to contact me with their CV and a brief introduction.
+I am looking for motivated Master's and Ph.D. students, as well as undergraduate research interns. Students interested in time series analysis, graph learning, and trustworthy AI are welcome to contact me with their CV and a brief introduction.
 
 ## Education and Employment
 
@@ -65,3 +77,17 @@ I am looking for motivated Master’s and Ph.D. students, as well as undergradua
 - 2015-2017, Visiting PhD Student in Computer Science, National University of Singapore, advised by Prof. Beng Chin Ooi.
 - 2013-2018, PhD in Computer Science and Technology, Nankai University, advised by Prof. Xiaojie Yuan.
 - 2009-2013, Bachelor of Engineering in Information Security, Nankai University.
+
+{% if site.visitor_map and site.visitor_map.clustrmaps_id %}
+
+## Visitors
+
+<div class="visitor-map">
+  <script
+    type="text/javascript"
+    id="clustrmaps"
+    src="//clustrmaps.com/map_v2.js?d={{ site.visitor_map.clustrmaps_id }}&cl=ffffff&w=a"
+  ></script>
+</div>
+
+{% endif %}
