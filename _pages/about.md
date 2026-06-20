@@ -78,16 +78,14 @@ I am looking for motivated Master's and Ph.D. students, as well as undergraduate
 - 2013-2018, PhD in Computer Science and Technology, Nankai University, advised by Prof. Xiaojie Yuan.
 - 2009-2013, Bachelor of Engineering in Information Security, Nankai University.
 
-{% if site.visitor_map and site.visitor_map.clustrmaps_id %}
-
 ## Visitors
 
 <div class="visitor-map">
-  <script
-    type="text/javascript"
-    id="clustrmaps"
-    src="//clustrmaps.com/map_v2.js?d={{ site.visitor_map.clustrmaps_id }}&cl=ffffff&w=a"
-  ></script>
+  <a href="https://info.flagcounter.com/obvR" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://s01.flagcounter.com/map/obvR/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+      alt="Visitor locations and page views"
+      loading="lazy"
+    >
+  </a>
 </div>
-
-{% endif %}
