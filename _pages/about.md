@@ -78,14 +78,27 @@ I am looking for motivated Master's and Ph.D. students, as well as undergraduate
 - 2013-2018, PhD in Computer Science and Technology, Nankai University, advised by Prof. Xiaojie Yuan.
 - 2009-2013, Bachelor of Engineering in Information Security, Nankai University.
 
-## Visitors
+<section id="visitor-statistics">
+  <h2>Visitors</h2>
 
-<div class="visitor-map">
-  <a href="https://info.flagcounter.com/obvR" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://s01.flagcounter.com/map/obvR/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
-      alt="Visitor locations and page views"
-      loading="lazy"
-    >
-  </a>
-</div>
+  <div class="visitor-map">
+    <a href="https://info.flagcounter.com/obvR" target="_blank" rel="noopener noreferrer">
+      <img
+        src="https://s01.flagcounter.com/map/obvR/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/"
+        alt="Visitor locations and page views"
+        loading="lazy"
+      >
+    </a>
+  </div>
+</section>
+
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    const visitorStatistics = document.getElementById("visitor-statistics");
+    const selectedPublications = document.querySelector("article > .publications");
+
+    if (visitorStatistics && selectedPublications) {
+      selectedPublications.insertAdjacentElement("afterend", visitorStatistics);
+    }
+  });
+</script>
