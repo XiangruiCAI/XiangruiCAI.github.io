@@ -40,6 +40,7 @@ def get_scholar_citations() -> None:
     """Fetch and update Google Scholar citation data."""
     print(f"Fetching citations for Google Scholar ID: {SCHOLAR_USER_ID}")
     today = datetime.now().strftime("%Y-%m-%d")
+    existing_data = {}
 
     # Check if the output file was already updated today
     if os.path.exists(OUTPUT_FILE):
@@ -62,26 +63,33 @@ def get_scholar_citations() -> None:
 
     citation_data = {"metadata": {"last_updated": today}, "papers": {}}
 
-    scholarly.set_timeout(15)
-    scholarly.set_retries(3)
+    if hasattr(scholarly, "set_timeout"):
+        scholarly.set_timeout(15)
+    if hasattr(scholarly, "set_retries"):
+        scholarly.set_retries(3)
     try:
         author = scholarly.search_author_id(SCHOLAR_USER_ID)
         author_data = scholarly.fill(author)
     except Exception as e:
         print(
-            f"Error fetching author data from Google Scholar for user ID '{SCHOLAR_USER_ID}': {e}. Please check your internet connection and Scholar user ID."
+            f"Warning: Could not fetch author data from Google Scholar for user ID '{SCHOLAR_USER_ID}': {e}."
         )
-        sys.exit(1)
+        print(
+            "Skipping citation update. Google Scholar often blocks automated requests from CI environments."
+        )
+        return
 
     if not author_data:
         print(
-            f"Could not fetch author data for user ID '{SCHOLAR_USER_ID}'. Please verify the Scholar user ID and try again."
+            f"Warning: Could not fetch author data for user ID '{SCHOLAR_USER_ID}'. Skipping citation update."
         )
-        sys.exit(1)
+        return
 
     if "publications" not in author_data:
-        print(f"No publications found in author data for user ID '{SCHOLAR_USER_ID}'.")
-        sys.exit(1)
+        print(
+            f"Warning: No publications found in author data for user ID '{SCHOLAR_USER_ID}'. Skipping citation update."
+        )
+        return
 
     for pub in author_data["publications"]:
         try:
