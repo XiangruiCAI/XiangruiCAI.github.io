@@ -76,7 +76,7 @@ I am looking for motivated Master's and Ph.D. students, as well as undergraduate
 - 2019-2022, Lecturer, College of Cyber Science, Nankai University.
 - 2015-2017, Visiting PhD Student in Computer Science, National University of Singapore, advised by Prof. Beng Chin Ooi.
 - 2013-2018, PhD in Computer Science and Technology, Nankai University, advised by Prof. Xiaojie Yuan.
-- 2009-2013, Bachelor of Engineering in Information Security, Nankai University.
+- 2009-2013, Bachelor of Information Security, Nankai University.
 
 <section id="visitor-statistics">
   <h2>Visitors</h2>
