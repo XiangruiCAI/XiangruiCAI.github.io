@@ -1,1 +1,267 @@
-{}
+metadata:
+  last_updated: '2026-07-24'
+papers:
+  Y9vuweEAAAAJ:-f6ydRqryjwC:
+    citations: 20
+    title: Adversarially learned one-class novelty detection with confidence estimation
+    year: '2021'
+  Y9vuweEAAAAJ:2P1L_qKh6hAC:
+    citations: 16
+    title: 'GeoCo: Geographical correlation enhanced network for POI recommendation'
+    year: '2024'
+  Y9vuweEAAAAJ:35N4QoGY0k4C:
+    citations: 8
+    title: Can coverage criteria guide failure discovery for image classifiers? An empirical study
+    year: '2024'
+  Y9vuweEAAAAJ:4DMP91E08xMC:
+    citations: 5
+    title: Summarizing relational database schema based on label propagation
+    year: '2014'
+  Y9vuweEAAAAJ:4JMBOYKVnBMC:
+    citations: 5
+    title: Effective multi-fault localization based on fault-relevant statistics
+    year: '2021'
+  Y9vuweEAAAAJ:4TOpqqG69KYC:
+    citations: 67
+    title: 'LD-MAN: Layout-driven multimodal attention network for online news sentiment recognition'
+    year: '2020'
+  Y9vuweEAAAAJ:70eg2SAEIzsC:
+    citations: 30
+    title: 'Contrast then memorize: Semantic neighbor retrieval-enhanced inductive multimodal knowledge graph completion'
+    year: '2024'
+  Y9vuweEAAAAJ:7PzlFSSx8tAC:
+    citations: 9
+    title: Discovery of unique column combinations with hadoop
+    year: '2014'
+  Y9vuweEAAAAJ:9ZlFYXVOiuMC:
+    citations: 5
+    title: XML Retrieval with Structural Context Relaxation
+    year: '2013'
+  Y9vuweEAAAAJ:BqipwSGYUEgC:
+    citations: 11
+    title: Contrastive meta-learning for drug-target binding affinity prediction
+    year: '2022'
+  Y9vuweEAAAAJ:GnPB-g6toBAC:
+    citations: 33
+    title: 'From alignment to entailment: A unified textual entailment framework for entity alignment'
+    year: '2023'
+  Y9vuweEAAAAJ:HDshCWvjkbEC:
+    citations: 26
+    title: 'MTAAL: multi-task adversarial active learning for medical named entity recognition and normalization'
+    year: '2021'
+  Y9vuweEAAAAJ:HoB7MX3m0LUC:
+    citations: 0
+    title: 'IDMM-IDS: An efficient and robust intrusion detection system for the IoT based on the inverted Dirichlet mixture model'
+    year: '2025'
+  Y9vuweEAAAAJ:IWHjjKOFINEC:
+    citations: 91
+    title: Medical concept embedding with time-aware attention
+    year: '2018'
+  Y9vuweEAAAAJ:JV2RwH3_ST0C:
+    citations: 136
+    title: 'Mose: Modality split and ensemble for multimodal knowledge graph completion'
+    year: '2022'
+  Y9vuweEAAAAJ:J_g5lzvAfSwC:
+    citations: 7
+    title: 'BioFEG: generate latent features for biomedical entity linking'
+    year: '2023'
+  Y9vuweEAAAAJ:L8Ckcad2t8MC:
+    citations: 0
+    title: Overlapping Schema Summarization Based on Multi-label Propagation
+    year: '2015'
+  Y9vuweEAAAAJ:M05iB0D1s5AC:
+    citations: 0
+    title: for Online Early Prediction of Sepsis
+    year: '2022'
+  Y9vuweEAAAAJ:M3NEmzRMIkIC:
+    citations: 35
+    title: Heterogeneous graph attention network for drug-target interaction prediction
+    year: '2022'
+  Y9vuweEAAAAJ:M3ejUd6NZC8C:
+    citations: 1
+    title: Efficient unique column combinations discovery based on data distribution
+    year: '2016'
+  Y9vuweEAAAAJ:NMxIlDl6LWMC:
+    citations: 1
+    title: 'DEAR: Dual-Level Self-attention GRU for Online Early Prediction of Sepsis'
+    year: '2022'
+  Y9vuweEAAAAJ:NaGl4SEjCO4C:
+    citations: 25
+    title: 'Tacoprompt: A collaborative multi-task prompt learning method for self-supervised taxonomy completion'
+    year: '2023'
+  Y9vuweEAAAAJ:O3NaXMp0MMsC:
+    citations: 12
+    title: 'Liresolver: License incompatibility resolution for open source software'
+    year: '2023'
+  Y9vuweEAAAAJ:QIV2ME_5wuYC:
+    citations: 7
+    title: Truth finding from multiple data sources by source confidence estimation
+    year: '2015'
+  Y9vuweEAAAAJ:R3hNpaxXUhUC:
+    citations: 6
+    title: 'STMG: spatial-temporal mobility graph for location prediction'
+    year: '2021'
+  Y9vuweEAAAAJ:RGFaLdJalmkC:
+    citations: 26
+    title: Graph structure aware contrastive multi-view clustering
+    year: '2023'
+  Y9vuweEAAAAJ:RHpTSmoSYBkC:
+    citations: 8
+    title: 'ImputeRNN: Imputing missing values in electronic medical records'
+    year: '2021'
+  Y9vuweEAAAAJ:RYcK_YlVTxYC:
+    citations: 44
+    title: 'Lan: Learning adaptive neighbors for real-time insider threat detection'
+    year: '2024'
+  Y9vuweEAAAAJ:SeFeTyx0c_EC:
+    citations: 1
+    title: 'RMSL: Weakly-Supervised Insider Threat Detection with Robust Multi-sphere Learning'
+    year: '2025'
+  Y9vuweEAAAAJ:TFP_iSt0sucC:
+    citations: 36
+    title: Location recommendation based on mobility graph with individual and group influences
+    year: '2022'
+  Y9vuweEAAAAJ:TQgYirikUcIC:
+    citations: 111
+    title: Accurate diagnosis of pulmonary nodules using a noninvasive DNA methylation test
+    year: '2021'
+  Y9vuweEAAAAJ:Wp0gIr-vW9MC:
+    citations: 814
+    title: Multivariate time series imputation with generative adversarial networks
+    year: '2018'
+  Y9vuweEAAAAJ:YFjsv_pBGBYC:
+    citations: 90
+    title: "Metapath-aggregated heterogeneous graph neural network for drug\u2013target interaction prediction"
+    year: '2023'
+  Y9vuweEAAAAJ:ZHo1McVdvXMC:
+    citations: 0
+    title: 'PAD: Popularity-Aware Debiasing for High-Value Item Recommendation'
+    year: '2025'
+  Y9vuweEAAAAJ:ZeXyd9-uunAC:
+    citations: 138
+    title: Re-attention for visual question answering
+    year: '2021'
+  Y9vuweEAAAAJ:_Qo2XoVZTnwC:
+    citations: 0
+    title: A Decision Support System for Heart Failure Risk Prediction Based on Weighted Naive Bayes
+    year: '2021'
+  Y9vuweEAAAAJ:_kc_bZDykSQC:
+    citations: 477
+    title: 'ImputeGAN: Generative adversarial network for multivariate time series imputation'
+    year: '2023'
+  Y9vuweEAAAAJ:aqlVkmm33-oC:
+    citations: 5
+    title: Efficient foreign key discovery based on nearest neighbor search
+    year: '2015'
+  Y9vuweEAAAAJ:bEWYMUwI8FkC:
+    citations: 5
+    title: 'Deepsuite: A test suite optimizer for autonomous vehicles'
+    year: '2021'
+  Y9vuweEAAAAJ:blknAaTinKkC:
+    citations: 16
+    title: 'Crnet: Modeling concurrent events over temporal knowledge graph'
+    year: '2022'
+  Y9vuweEAAAAJ:cFHS6HbyZ2cC:
+    citations: 0
+    title: 'FairSpec: Expert Specialization for Fair LLM-based Recommendation'
+    year: '2026'
+  Y9vuweEAAAAJ:dfsIfKJdRG4C:
+    citations: 0
+    title: 'Learning from Noisy Supervision: A Denoising-Debiasing Framework for Weakly Supervised Video Anomaly Detection'
+    year: '2026'
+  Y9vuweEAAAAJ:dhFuZR0502QC:
+    citations: 5
+    title: 'StrDip: A fast data stream clustering algorithm using the dip test of unimodality'
+    year: '2018'
+  Y9vuweEAAAAJ:e5wmG9Sq2KIC:
+    citations: 33
+    title: An end-to-end progressive multi-task learning framework for medical named entity recognition and normalization
+    year: '2021'
+  Y9vuweEAAAAJ:fPk4N6BV_jEC:
+    citations: 0
+    title: 'LFT4POI: Multimodal POI Recommendation via Large Language Model Fine-Tuning'
+    year: '2025'
+  Y9vuweEAAAAJ:g5m5HwL7SMYC:
+    citations: 7
+    title: Dual-space contrastive learning for open-world semi-supervised classification
+    year: '2025'
+  Y9vuweEAAAAJ:hC7cP41nSMkC:
+    citations: 182
+    title: Missing value imputation in multivariate time series with end-to-end generative adversarial networks
+    year: '2021'
+  Y9vuweEAAAAJ:hFOr9nPyWt4C:
+    citations: 6
+    title: Test input selection for deep neural networks
+    year: '2020'
+  Y9vuweEAAAAJ:hMod-77fHWUC:
+    citations: 123
+    title: 'Badprompt: Backdoor attacks on continuous prompts'
+    year: '2022'
+  Y9vuweEAAAAJ:iH-uZ7U-co4C:
+    citations: 18
+    title: Incorporating circumstances into narrative event prediction
+    year: '2021'
+  Y9vuweEAAAAJ:isC4tDSrTZIC:
+    citations: 50
+    title: Learning disentangled representation for multimodal cross-domain sentiment analysis
+    year: '2022'
+  Y9vuweEAAAAJ:k_IJM867U9cC:
+    citations: 5
+    title: Noninvasive lung cancer early detection via deep methylation representation learning
+    year: '2022'
+  Y9vuweEAAAAJ:lSLTfruPkqcC:
+    citations: 58
+    title: Learning time slot preferences via mobility tree for next poi recommendation
+    year: '2024'
+  Y9vuweEAAAAJ:ldfaerwXgEUC:
+    citations: 10
+    title: 'Me3a: A multimodal entity entailment framework for multimodal entity alignment'
+    year: '2025'
+  Y9vuweEAAAAJ:mB3voiENLucC:
+    citations: 47
+    title: 'TAU: Transferable Attention U-Net for optic disc and cup segmentation'
+    year: '2021'
+  Y9vuweEAAAAJ:mVmsd5A6BfQC:
+    citations: 0
+    title: On the Impact of the Length of Subword Vectors on Word Embeddings
+    year: '2019'
+  Y9vuweEAAAAJ:ns9cj8rnVeAC:
+    citations: 9
+    title: 'LiSum: Open source software license summarization with multi-task learning'
+    year: '2023'
+  Y9vuweEAAAAJ:pqnbT2bcN3wC:
+    citations: 4
+    title: Hyper-modal imputation diffusion embedding with dual-distillation for federated multimodal knowledge graph completion
+    year: '2026'
+  Y9vuweEAAAAJ:qUcmZB5y_30C:
+    citations: 3
+    title: Improving word embeddings by emphasizing co-hyponyms
+    year: '2018'
+  Y9vuweEAAAAJ:qxL8FJ1GzNcC:
+    citations: 0
+    title: Purchase and Redemption Prediction Based on Multi-task Gaussian Process and Dimensionality Reduction
+    year: '2016'
+  Y9vuweEAAAAJ:r0BpntZqJG4C:
+    citations: 3
+    title: Multimodal topic detection in social networks with graph fusion
+    year: '2021'
+  Y9vuweEAAAAJ:rO6llkc54NcC:
+    citations: 0
+    title: 'Dirichlet process mixture mechanism with extended stochastic variational inference: Bayesian adversarial learning for IoT intrusion detection'
+    year: '2025'
+  Y9vuweEAAAAJ:u_35RYKgDlwC:
+    citations: 0
+    title: 'DrosGB: An integrated multi-omics database for comparative genomics and functional annotation of 35 Drosophila species'
+    year: '2026'
+  Y9vuweEAAAAJ:vV6vV6tmYwMC:
+    citations: 7
+    title: 'ESVI-GaMM: A fast network intrusion detection approach based on the Bayesian gamma mixture model'
+    year: '2024'
+  Y9vuweEAAAAJ:yD5IFk8b50cC:
+    citations: 0
+    title: 'Embark Now: User Demand Oriented Framework for Multi-day Urban Travel Itinerary Planning'
+    year: '2026'
+  Y9vuweEAAAAJ:zA6iFVUQeVQC:
+    citations: 0
+    title: Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization
+    year: '2026'
