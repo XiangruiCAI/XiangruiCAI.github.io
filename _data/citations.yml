@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-24'
+  last_updated: '2026-07-27'
 papers:
   Y9vuweEAAAAJ:-f6ydRqryjwC:
     citations: 20
@@ -26,7 +26,7 @@ papers:
     title: 'LD-MAN: Layout-driven multimodal attention network for online news sentiment recognition'
     year: '2020'
   Y9vuweEAAAAJ:70eg2SAEIzsC:
-    citations: 30
+    citations: 31
     title: 'Contrast then memorize: Semantic neighbor retrieval-enhanced inductive multimodal knowledge graph completion'
     year: '2024'
   Y9vuweEAAAAJ:7PzlFSSx8tAC:
@@ -74,7 +74,7 @@ papers:
     title: for Online Early Prediction of Sepsis
     year: '2022'
   Y9vuweEAAAAJ:M3NEmzRMIkIC:
-    citations: 35
+    citations: 36
     title: Heterogeneous graph attention network for drug-target interaction prediction
     year: '2022'
   Y9vuweEAAAAJ:M3ejUd6NZC8C:
@@ -126,11 +126,11 @@ papers:
     title: Accurate diagnosis of pulmonary nodules using a noninvasive DNA methylation test
     year: '2021'
   Y9vuweEAAAAJ:Wp0gIr-vW9MC:
-    citations: 814
+    citations: 817
     title: Multivariate time series imputation with generative adversarial networks
     year: '2018'
   Y9vuweEAAAAJ:YFjsv_pBGBYC:
-    citations: 90
+    citations: 91
     title: "Metapath-aggregated heterogeneous graph neural network for drug\u2013target interaction prediction"
     year: '2023'
   Y9vuweEAAAAJ:ZHo1McVdvXMC:
@@ -146,7 +146,7 @@ papers:
     title: A Decision Support System for Heart Failure Risk Prediction Based on Weighted Naive Bayes
     year: '2021'
   Y9vuweEAAAAJ:_kc_bZDykSQC:
-    citations: 477
+    citations: 478
     title: 'ImputeGAN: Generative adversarial network for multivariate time series imputation'
     year: '2023'
   Y9vuweEAAAAJ:aqlVkmm33-oC:
@@ -186,7 +186,7 @@ papers:
     title: Dual-space contrastive learning for open-world semi-supervised classification
     year: '2025'
   Y9vuweEAAAAJ:hC7cP41nSMkC:
-    citations: 182
+    citations: 183
     title: Missing value imputation in multivariate time series with end-to-end generative adversarial networks
     year: '2021'
   Y9vuweEAAAAJ:hFOr9nPyWt4C:
@@ -231,8 +231,8 @@ papers:
     year: '2023'
   Y9vuweEAAAAJ:pqnbT2bcN3wC:
     citations: 4
-    title: Hyper-modal imputation diffusion embedding with dual-distillation for federated multimodal knowledge graph completion
-    year: '2026'
+    title: Hyper-modal Imputation Diffusion Embedding with Dual-Distillation for Federated Multimodal Knowledge Graph Completion
+    year: '2025'
   Y9vuweEAAAAJ:qUcmZB5y_30C:
     citations: 3
     title: Improving word embeddings by emphasizing co-hyponyms
