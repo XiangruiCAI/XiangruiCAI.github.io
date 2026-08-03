@@ -1,17 +1,17 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
   Y9vuweEAAAAJ:-f6ydRqryjwC:
     citations: 20
     title: Adversarially learned one-class novelty detection with confidence estimation
     year: '2021'
   Y9vuweEAAAAJ:2P1L_qKh6hAC:
-    citations: 16
+    citations: 17
     title: 'GeoCo: Geographical correlation enhanced network for POI recommendation'
     year: '2024'
   Y9vuweEAAAAJ:35N4QoGY0k4C:
-    citations: 8
-    title: Can coverage criteria guide failure discovery for image classifiers? An empirical study
+    citations: 7
+    title: Can coverage criteria guide failure discovery for image classifiers? an empirical study
     year: '2024'
   Y9vuweEAAAAJ:4DMP91E08xMC:
     citations: 5
@@ -22,7 +22,7 @@ papers:
     title: Effective multi-fault localization based on fault-relevant statistics
     year: '2021'
   Y9vuweEAAAAJ:4TOpqqG69KYC:
-    citations: 67
+    citations: 68
     title: 'LD-MAN: Layout-driven multimodal attention network for online news sentiment recognition'
     year: '2020'
   Y9vuweEAAAAJ:70eg2SAEIzsC:
@@ -38,7 +38,7 @@ papers:
     title: XML Retrieval with Structural Context Relaxation
     year: '2013'
   Y9vuweEAAAAJ:BqipwSGYUEgC:
-    citations: 11
+    citations: 12
     title: Contrastive meta-learning for drug-target binding affinity prediction
     year: '2022'
   Y9vuweEAAAAJ:GnPB-g6toBAC:
@@ -58,7 +58,7 @@ papers:
     title: Medical concept embedding with time-aware attention
     year: '2018'
   Y9vuweEAAAAJ:JV2RwH3_ST0C:
-    citations: 136
+    citations: 135
     title: 'Mose: Modality split and ensemble for multimodal knowledge graph completion'
     year: '2022'
   Y9vuweEAAAAJ:J_g5lzvAfSwC:
@@ -74,7 +74,7 @@ papers:
     title: for Online Early Prediction of Sepsis
     year: '2022'
   Y9vuweEAAAAJ:M3NEmzRMIkIC:
-    citations: 36
+    citations: 37
     title: Heterogeneous graph attention network for drug-target interaction prediction
     year: '2022'
   Y9vuweEAAAAJ:M3ejUd6NZC8C:
@@ -102,7 +102,7 @@ papers:
     title: 'STMG: spatial-temporal mobility graph for location prediction'
     year: '2021'
   Y9vuweEAAAAJ:RGFaLdJalmkC:
-    citations: 26
+    citations: 25
     title: Graph structure aware contrastive multi-view clustering
     year: '2023'
   Y9vuweEAAAAJ:RHpTSmoSYBkC:
@@ -110,8 +110,8 @@ papers:
     title: 'ImputeRNN: Imputing missing values in electronic medical records'
     year: '2021'
   Y9vuweEAAAAJ:RYcK_YlVTxYC:
-    citations: 44
-    title: 'Lan: Learning adaptive neighbors for real-time insider threat detection'
+    citations: 42
+    title: 'LAN: Learning adaptive neighbors for real-time insider threat detection'
     year: '2024'
   Y9vuweEAAAAJ:SeFeTyx0c_EC:
     citations: 1
@@ -126,7 +126,7 @@ papers:
     title: Accurate diagnosis of pulmonary nodules using a noninvasive DNA methylation test
     year: '2021'
   Y9vuweEAAAAJ:Wp0gIr-vW9MC:
-    citations: 817
+    citations: 809
     title: Multivariate time series imputation with generative adversarial networks
     year: '2018'
   Y9vuweEAAAAJ:YFjsv_pBGBYC:
@@ -135,7 +135,7 @@ papers:
     year: '2023'
   Y9vuweEAAAAJ:ZHo1McVdvXMC:
     citations: 0
-    title: 'PAD: Popularity-Aware Debiasing for High-Value Item Recommendation'
+    title: 'PAD: Popularity-aware debiasing for high-value item recommendation'
     year: '2025'
   Y9vuweEAAAAJ:ZeXyd9-uunAC:
     citations: 138
@@ -146,9 +146,13 @@ papers:
     title: A Decision Support System for Heart Failure Risk Prediction Based on Weighted Naive Bayes
     year: '2021'
   Y9vuweEAAAAJ:_kc_bZDykSQC:
-    citations: 478
+    citations: 80
     title: 'ImputeGAN: Generative adversarial network for multivariate time series imputation'
     year: '2023'
+  Y9vuweEAAAAJ:a0OBvERweLwC:
+    citations: 409
+    title: 'E2gan: End-to-end generative adversarial network for multivariate time series imputation'
+    year: '2019'
   Y9vuweEAAAAJ:aqlVkmm33-oC:
     citations: 5
     title: Efficient foreign key discovery based on nearest neighbor search
@@ -174,7 +178,7 @@ papers:
     title: 'StrDip: A fast data stream clustering algorithm using the dip test of unimodality'
     year: '2018'
   Y9vuweEAAAAJ:e5wmG9Sq2KIC:
-    citations: 33
+    citations: 34
     title: An end-to-end progressive multi-task learning framework for medical named entity recognition and normalization
     year: '2021'
   Y9vuweEAAAAJ:fPk4N6BV_jEC:
@@ -186,7 +190,7 @@ papers:
     title: Dual-space contrastive learning for open-world semi-supervised classification
     year: '2025'
   Y9vuweEAAAAJ:hC7cP41nSMkC:
-    citations: 183
+    citations: 184
     title: Missing value imputation in multivariate time series with end-to-end generative adversarial networks
     year: '2021'
   Y9vuweEAAAAJ:hFOr9nPyWt4C:
@@ -194,7 +198,7 @@ papers:
     title: Test input selection for deep neural networks
     year: '2020'
   Y9vuweEAAAAJ:hMod-77fHWUC:
-    citations: 123
+    citations: 124
     title: 'Badprompt: Backdoor attacks on continuous prompts'
     year: '2022'
   Y9vuweEAAAAJ:iH-uZ7U-co4C:
@@ -227,12 +231,12 @@ papers:
     year: '2019'
   Y9vuweEAAAAJ:ns9cj8rnVeAC:
     citations: 9
-    title: 'LiSum: Open source software license summarization with multi-task learning'
+    title: 'Lisum: Open source software license summarization with multi-task learning'
     year: '2023'
   Y9vuweEAAAAJ:pqnbT2bcN3wC:
-    citations: 4
-    title: Hyper-modal Imputation Diffusion Embedding with Dual-Distillation for Federated Multimodal Knowledge Graph Completion
-    year: '2025'
+    citations: 3
+    title: Hyper-modal imputation diffusion embedding with dual-distillation for federated multimodal knowledge graph completion
+    year: '2026'
   Y9vuweEAAAAJ:qUcmZB5y_30C:
     citations: 3
     title: Improving word embeddings by emphasizing co-hyponyms
@@ -263,5 +267,5 @@ papers:
     year: '2026'
   Y9vuweEAAAAJ:zA6iFVUQeVQC:
     citations: 0
-    title: Multi-Modal Style Transfer-based Prompt Tuning for Efficient Federated Domain Generalization
+    title: Multi-modal style transfer-based prompt tuning for efficient federated domain generalization
     year: '2026'
