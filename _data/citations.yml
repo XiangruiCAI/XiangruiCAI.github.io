@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-03'
+  last_updated: '2026-08-10'
 papers:
   Y9vuweEAAAAJ:-f6ydRqryjwC:
     citations: 20
@@ -26,7 +26,7 @@ papers:
     title: 'LD-MAN: Layout-driven multimodal attention network for online news sentiment recognition'
     year: '2020'
   Y9vuweEAAAAJ:70eg2SAEIzsC:
-    citations: 31
+    citations: 32
     title: 'Contrast then memorize: Semantic neighbor retrieval-enhanced inductive multimodal knowledge graph completion'
     year: '2024'
   Y9vuweEAAAAJ:7PzlFSSx8tAC:
@@ -58,7 +58,7 @@ papers:
     title: Medical concept embedding with time-aware attention
     year: '2018'
   Y9vuweEAAAAJ:JV2RwH3_ST0C:
-    citations: 135
+    citations: 136
     title: 'Mose: Modality split and ensemble for multimodal knowledge graph completion'
     year: '2022'
   Y9vuweEAAAAJ:J_g5lzvAfSwC:
@@ -106,11 +106,11 @@ papers:
     title: Graph structure aware contrastive multi-view clustering
     year: '2023'
   Y9vuweEAAAAJ:RHpTSmoSYBkC:
-    citations: 8
+    citations: 9
     title: 'ImputeRNN: Imputing missing values in electronic medical records'
     year: '2021'
   Y9vuweEAAAAJ:RYcK_YlVTxYC:
-    citations: 42
+    citations: 44
     title: 'LAN: Learning adaptive neighbors for real-time insider threat detection'
     year: '2024'
   Y9vuweEAAAAJ:SeFeTyx0c_EC:
@@ -122,11 +122,11 @@ papers:
     title: Location recommendation based on mobility graph with individual and group influences
     year: '2022'
   Y9vuweEAAAAJ:TQgYirikUcIC:
-    citations: 111
+    citations: 112
     title: Accurate diagnosis of pulmonary nodules using a noninvasive DNA methylation test
     year: '2021'
   Y9vuweEAAAAJ:Wp0gIr-vW9MC:
-    citations: 809
+    citations: 815
     title: Multivariate time series imputation with generative adversarial networks
     year: '2018'
   Y9vuweEAAAAJ:YFjsv_pBGBYC:
@@ -138,7 +138,7 @@ papers:
     title: 'PAD: Popularity-aware debiasing for high-value item recommendation'
     year: '2025'
   Y9vuweEAAAAJ:ZeXyd9-uunAC:
-    citations: 138
+    citations: 139
     title: Re-attention for visual question answering
     year: '2021'
   Y9vuweEAAAAJ:_Qo2XoVZTnwC:
@@ -150,7 +150,7 @@ papers:
     title: 'ImputeGAN: Generative adversarial network for multivariate time series imputation'
     year: '2023'
   Y9vuweEAAAAJ:a0OBvERweLwC:
-    citations: 409
+    citations: 411
     title: 'E2gan: End-to-end generative adversarial network for multivariate time series imputation'
     year: '2019'
   Y9vuweEAAAAJ:aqlVkmm33-oC:
@@ -186,11 +186,11 @@ papers:
     title: 'LFT4POI: Multimodal POI Recommendation via Large Language Model Fine-Tuning'
     year: '2025'
   Y9vuweEAAAAJ:g5m5HwL7SMYC:
-    citations: 7
+    citations: 9
     title: Dual-space contrastive learning for open-world semi-supervised classification
     year: '2025'
   Y9vuweEAAAAJ:hC7cP41nSMkC:
-    citations: 184
+    citations: 185
     title: Missing value imputation in multivariate time series with end-to-end generative adversarial networks
     year: '2021'
   Y9vuweEAAAAJ:hFOr9nPyWt4C:
@@ -214,7 +214,7 @@ papers:
     title: Noninvasive lung cancer early detection via deep methylation representation learning
     year: '2022'
   Y9vuweEAAAAJ:lSLTfruPkqcC:
-    citations: 58
+    citations: 60
     title: Learning time slot preferences via mobility tree for next poi recommendation
     year: '2024'
   Y9vuweEAAAAJ:ldfaerwXgEUC:
