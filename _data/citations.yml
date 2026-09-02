@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-10'
+  last_updated: '2026-09-02'
 papers:
   Y9vuweEAAAAJ:-f6ydRqryjwC:
     citations: 20
@@ -22,7 +22,7 @@ papers:
     title: Effective multi-fault localization based on fault-relevant statistics
     year: '2021'
   Y9vuweEAAAAJ:4TOpqqG69KYC:
-    citations: 68
+    citations: 69
     title: 'LD-MAN: Layout-driven multimodal attention network for online news sentiment recognition'
     year: '2020'
   Y9vuweEAAAAJ:70eg2SAEIzsC:
@@ -38,11 +38,15 @@ papers:
     title: XML Retrieval with Structural Context Relaxation
     year: '2013'
   Y9vuweEAAAAJ:BqipwSGYUEgC:
-    citations: 12
+    citations: 13
     title: Contrastive meta-learning for drug-target binding affinity prediction
     year: '2022'
+  Y9vuweEAAAAJ:D03iK_w7-QYC:
+    citations: 0
+    title: 'FSGR: Mitigating Token Frequency Bias for Fair SID-Based Generative Recommendation'
+    year: '2026'
   Y9vuweEAAAAJ:GnPB-g6toBAC:
-    citations: 33
+    citations: 34
     title: 'From alignment to entailment: A unified textual entailment framework for entity alignment'
     year: '2023'
   Y9vuweEAAAAJ:HDshCWvjkbEC:
@@ -58,7 +62,7 @@ papers:
     title: Medical concept embedding with time-aware attention
     year: '2018'
   Y9vuweEAAAAJ:JV2RwH3_ST0C:
-    citations: 136
+    citations: 138
     title: 'Mose: Modality split and ensemble for multimodal knowledge graph completion'
     year: '2022'
   Y9vuweEAAAAJ:J_g5lzvAfSwC:
@@ -74,7 +78,7 @@ papers:
     title: for Online Early Prediction of Sepsis
     year: '2022'
   Y9vuweEAAAAJ:M3NEmzRMIkIC:
-    citations: 37
+    citations: 38
     title: Heterogeneous graph attention network for drug-target interaction prediction
     year: '2022'
   Y9vuweEAAAAJ:M3ejUd6NZC8C:
@@ -94,7 +98,7 @@ papers:
     title: 'Liresolver: License incompatibility resolution for open source software'
     year: '2023'
   Y9vuweEAAAAJ:QIV2ME_5wuYC:
-    citations: 7
+    citations: 8
     title: Truth finding from multiple data sources by source confidence estimation
     year: '2015'
   Y9vuweEAAAAJ:R3hNpaxXUhUC:
@@ -102,7 +106,7 @@ papers:
     title: 'STMG: spatial-temporal mobility graph for location prediction'
     year: '2021'
   Y9vuweEAAAAJ:RGFaLdJalmkC:
-    citations: 25
+    citations: 26
     title: Graph structure aware contrastive multi-view clustering
     year: '2023'
   Y9vuweEAAAAJ:RHpTSmoSYBkC:
@@ -110,7 +114,7 @@ papers:
     title: 'ImputeRNN: Imputing missing values in electronic medical records'
     year: '2021'
   Y9vuweEAAAAJ:RYcK_YlVTxYC:
-    citations: 44
+    citations: 50
     title: 'LAN: Learning adaptive neighbors for real-time insider threat detection'
     year: '2024'
   Y9vuweEAAAAJ:SeFeTyx0c_EC:
@@ -118,19 +122,19 @@ papers:
     title: 'RMSL: Weakly-Supervised Insider Threat Detection with Robust Multi-sphere Learning'
     year: '2025'
   Y9vuweEAAAAJ:TFP_iSt0sucC:
-    citations: 36
+    citations: 37
     title: Location recommendation based on mobility graph with individual and group influences
     year: '2022'
   Y9vuweEAAAAJ:TQgYirikUcIC:
-    citations: 112
+    citations: 113
     title: Accurate diagnosis of pulmonary nodules using a noninvasive DNA methylation test
     year: '2021'
   Y9vuweEAAAAJ:Wp0gIr-vW9MC:
-    citations: 815
+    citations: 824
     title: Multivariate time series imputation with generative adversarial networks
     year: '2018'
   Y9vuweEAAAAJ:YFjsv_pBGBYC:
-    citations: 91
+    citations: 92
     title: "Metapath-aggregated heterogeneous graph neural network for drug\u2013target interaction prediction"
     year: '2023'
   Y9vuweEAAAAJ:ZHo1McVdvXMC:
@@ -146,11 +150,11 @@ papers:
     title: A Decision Support System for Heart Failure Risk Prediction Based on Weighted Naive Bayes
     year: '2021'
   Y9vuweEAAAAJ:_kc_bZDykSQC:
-    citations: 80
+    citations: 82
     title: 'ImputeGAN: Generative adversarial network for multivariate time series imputation'
     year: '2023'
   Y9vuweEAAAAJ:a0OBvERweLwC:
-    citations: 411
+    citations: 414
     title: 'E2gan: End-to-end generative adversarial network for multivariate time series imputation'
     year: '2019'
   Y9vuweEAAAAJ:aqlVkmm33-oC:
@@ -162,7 +166,7 @@ papers:
     title: 'Deepsuite: A test suite optimizer for autonomous vehicles'
     year: '2021'
   Y9vuweEAAAAJ:blknAaTinKkC:
-    citations: 16
+    citations: 17
     title: 'Crnet: Modeling concurrent events over temporal knowledge graph'
     year: '2022'
   Y9vuweEAAAAJ:cFHS6HbyZ2cC:
@@ -186,11 +190,11 @@ papers:
     title: 'LFT4POI: Multimodal POI Recommendation via Large Language Model Fine-Tuning'
     year: '2025'
   Y9vuweEAAAAJ:g5m5HwL7SMYC:
-    citations: 9
+    citations: 10
     title: Dual-space contrastive learning for open-world semi-supervised classification
     year: '2025'
   Y9vuweEAAAAJ:hC7cP41nSMkC:
-    citations: 185
+    citations: 186
     title: Missing value imputation in multivariate time series with end-to-end generative adversarial networks
     year: '2021'
   Y9vuweEAAAAJ:hFOr9nPyWt4C:
@@ -198,7 +202,7 @@ papers:
     title: Test input selection for deep neural networks
     year: '2020'
   Y9vuweEAAAAJ:hMod-77fHWUC:
-    citations: 124
+    citations: 126
     title: 'Badprompt: Backdoor attacks on continuous prompts'
     year: '2022'
   Y9vuweEAAAAJ:iH-uZ7U-co4C:
@@ -206,7 +210,7 @@ papers:
     title: Incorporating circumstances into narrative event prediction
     year: '2021'
   Y9vuweEAAAAJ:isC4tDSrTZIC:
-    citations: 50
+    citations: 51
     title: Learning disentangled representation for multimodal cross-domain sentiment analysis
     year: '2022'
   Y9vuweEAAAAJ:k_IJM867U9cC:
@@ -214,7 +218,7 @@ papers:
     title: Noninvasive lung cancer early detection via deep methylation representation learning
     year: '2022'
   Y9vuweEAAAAJ:lSLTfruPkqcC:
-    citations: 60
+    citations: 62
     title: Learning time slot preferences via mobility tree for next poi recommendation
     year: '2024'
   Y9vuweEAAAAJ:ldfaerwXgEUC:
